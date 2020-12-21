@@ -1,3 +1,6 @@
+# About
+A todo app to add and delete tasks, also this app allows you to sort tasks between complete and not complete
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
